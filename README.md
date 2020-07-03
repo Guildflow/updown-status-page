@@ -1,10 +1,15 @@
+This is a fork of `nya1/updown-status-page` which helped me launch the status page at:
+
+https://status.guildflow.com/
+
+The original README is below.
+
 # Updown Status Page
 
 Free status page to list all your updown.io checks
 
 Example:
 [![demo](screenshot_demo.png)](https://status.1link.io/)
-
 
 ## How it works
 
